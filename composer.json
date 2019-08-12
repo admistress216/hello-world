@@ -1,0 +1,10 @@
+{
+	"name": "anker1992/hello-world",
+	"require":{
+		"monolog/monolog": ">=1.2",
+		"anker1992/uploadfile": "^1.0.1",
+		"php": ">=7.2",
+		"ext-redis": "*",
+		"lib-openssl": "*"
+	}
+}
